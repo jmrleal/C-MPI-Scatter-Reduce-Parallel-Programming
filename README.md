@@ -10,7 +10,7 @@ Lastly, `pow(product, (1/N)` will be calculated to determine the Geometric Mean.
 
 ## Requirements
 
-MPI SDK and Redistributable is required to compile on windows.  Please follow Microsof's guide to get going
+MPI SDK and Redistributable is required to compile on windows.  Please follow Microsoft's guide to get going
 https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run-a-simple-ms-mpi-program/
 
 ## Execution
