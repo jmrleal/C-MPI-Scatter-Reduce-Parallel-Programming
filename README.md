@@ -17,7 +17,7 @@ https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run
 
 Program can be executed after building using the following command 
 
-`mpiexec -n P Geo-Mean.exe N` where P represents number of processes and <N> represents number of random numbers that will be generated
+`mpiexec -n P Geo-Mean.exe N` where P represents number of processes and N represents number of random numbers that will be generated
 
 ## Resources
 
